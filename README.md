@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luv
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luv.saxena96@gmail.com
 
 <!---
